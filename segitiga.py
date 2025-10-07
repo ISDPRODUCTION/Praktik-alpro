@@ -1,0 +1,5 @@
+print ("=======menghitung luas segitiga========")
+alas = input ("masukkan alas : ")
+tinggi = input ("masukkan tinggi : ")
+luas = 0.5 * float(alas) * float(tinggi)
+print (f"luas segitiga adalah : {luas:.2f}")
